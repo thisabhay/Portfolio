@@ -9,9 +9,12 @@
     .Download{
         height: 15px;
     }
-
+    .uhide{
+        display: inline;
+    }
     .hero {
         padding-top: 2rem;
+        padding-bottom: 4rem;
     }
 
     .content h1 {
