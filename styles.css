@@ -103,6 +103,10 @@ header {
     gap: 20px;
     font-size: 2rem;
 }
+.socials a{
+    color: white;
+    text-decoration: none;
+}
 
 .socials p {
     padding-left: 5px;
