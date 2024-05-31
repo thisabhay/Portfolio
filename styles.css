@@ -200,3 +200,13 @@ footer div{
 footer img{
     height: 30px;
 }
+.skill {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .skillimg {
+    width: 80%;
+    height: auto;
+  }
+  
