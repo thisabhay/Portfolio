@@ -135,28 +135,30 @@ header {
     width: 90%;
     font-family: 'ClashDisplay';
     margin: auto;
-    grid-template-columns:  1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     color: white;
-  }
+}
 
-  .about-img img {
+.about-img img {
     max-width: 100%;
-    max-height: 400px;
-    border-radius: 10px;
+    max-height: 25rem;
+    border-radius: 0.625rem;
     height: auto;
-  }
+}
 
-  .aboutme p {
-    font-size: 20px;
-  }
-  .aboutme ul{
+.aboutme p {
+    font-size: 1.25rem;
+}
+
+.aboutme ul {
     padding: 0;
-    font-size: 20px;
-  }
-  .aboutme li{
+    font-size: 1.25rem;
+}
+
+.aboutme li {
     list-style: none;
-    padding: 5px;
-  }
+    padding: 0.3125rem;
+}
 /* Contact Section */
 form {
     display: flex;
