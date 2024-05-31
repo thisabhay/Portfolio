@@ -45,4 +45,11 @@
     .title {
         font-size: 20px;
     }
+    .aboutme {
+       grid-template-columns: 1fr;
+      }
+      .aboutme div{
+        margin: auto;
+        max-width: 85%;
+      }
 }

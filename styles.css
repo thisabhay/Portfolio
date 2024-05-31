@@ -127,6 +127,36 @@ header {
     height: 45px;
 }
 
+
+
+/* About Section */
+.aboutme {
+    display: grid;
+    width: 90%;
+    font-family: 'ClashDisplay';
+    margin: auto;
+    grid-template-columns:  1fr 1fr;
+    color: white;
+  }
+
+  .about-img img {
+    max-width: 100%;
+    max-height: 400px;
+    border-radius: 10px;
+    height: auto;
+  }
+
+  .aboutme p {
+    font-size: 20px;
+  }
+  .aboutme ul{
+    padding: 0;
+    font-size: 20px;
+  }
+  .aboutme li{
+    list-style: none;
+    padding: 5px;
+  }
 /* Contact Section */
 form {
     display: flex;
